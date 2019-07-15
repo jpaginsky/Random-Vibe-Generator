@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+  font-family: 'Notable', sans-serif;
+
+}
+
+p {
+  font-family: 'Notable', sans-serif;
+  padding-top: 75px;
+}
+
+body {
+   background-color: #ffaaad;
+}
+
+div  {
+  border: .5px solid;
+  border-radius: 200px;
+  border-color: #ffffff;
+  margin-left: 34%;
+  margin-right: 34%;
+  margin-top: 20px;
+  margin-bottom: 8%;
+
+}
+
+h2 {
+  font-family: 'Notable', sans-serif;
+  margin-bottom: 75px;
+
+}
+
+#myButton1 {
+  background-color: #000000;
+  border-radius: 50%;
+  margin: 25px;
+  padding: 20px;
+  height:200px;
+  width:200px;
+  text-decoration: none;
+  font-family: 'Notable', sans-serif;
+  font-size: 30px;
+  color: white ;
+  display: block;
+  margin: auto;
+
+}
+
+#myButton1:hover {
+  background-color: #FFEAC4;
+  color: black;
+}
